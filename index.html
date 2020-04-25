@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Responsive Landing Page</title>
+
+  <link rel="stylesheet" href="./public/styles.css">
+
+  <script src="https://kit.fontawesome.com/8642978264.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <section class="banner" id="sec">
+    <header>
+      <a href="#" class="logo">Logo</a>
+      <div id="toggle" onclick="toggle()"></div>
+    </header>
+
+    <div class="content">
+      <h2>Hello World,<br>I'm <span>Antonio Decanini</span></h2>
+      
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima,
+         perspiciatis commodi, velit eum earum non voluptatibus voluptatum
+         adipisci dolores, dicta vero explicabo cum tenetur alias magni aliquam.
+         Molestiae, voluptates placeat?</p>
+
+      <a href="#">More</a>
+    </div>
+
+    <ul class="sci">
+      <li><a href="#"><img src="./public/img/facebook.png" alt=""></a></li>
+      <li><a href="#"><img src="./public/img/twitter.png" alt=""></a></li>
+      <li><a href="#"><img src="./public/img/linkedin.png" alt=""></a></li>
+    </ul>
+  </section>
+
+  <div id="navigation">
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Portfolio</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+
+  <script type="text/javascript">
+    function toggle() {
+      let sec = document.getElementById('sec');
+      let nav = document.getElementById('navigation')
+      sec.classList.toggle('active');
+      nav.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
