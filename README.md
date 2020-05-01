@@ -24,7 +24,7 @@ withdrawn from an example of youtube channel, and I implemented this.
 ### Prerequisites
 - To execute this project, you just need a browser of your choice.
 
-### Step 1 - 👯 Clone this repo to your local machine and install dependencies
+### Step 1 - 👯 Clone this repo to your local machine
 ```
 $ git clone https://github.com/antoniodecanini/responsive-landing-page-vanillaJS.git
 
