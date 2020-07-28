@@ -12,7 +12,7 @@ This page, was raised to studding front-end development (css more specifically).
 This idea was withdrawn from an example of youtube channel, and I implemented this.
 
 <p align="center">
-  <img src="./readme/index.png">
+  <img src="./readme/index.png" width="700">
 </p>
 
 ---
