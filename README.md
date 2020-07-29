@@ -12,9 +12,9 @@ This landing page, was raised to studding front-end development, this idea was
 withdrawn from an example of youtube channel, and I implemented this.
 
 <p align="center">
-  <img src="./readme/index.png" width="450">
+  <img src="./readme/index.png" width="400">
 
-  <img src="./readme/navigation.png" width="450">
+  <img src="./readme/navigation.png" width="400">
 </p>
 
 ---
