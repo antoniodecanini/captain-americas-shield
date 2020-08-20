@@ -16,25 +16,6 @@ This analog clock, was raised to studding front-end development, focusing in CSS
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- To execute this project, you just need a browser of your choice.
-
-### Step 1 - 👯 Clone this repo to your local machine
-```
-$ git clone https://github.com/antoniodecanini/analog-clock-neumorphism.git
-
-$ cd analog-clock-neumorphism
-```
-
-### Step 2 - 🔗 Open site (with Google Chrome for example)
-```
-$ google-chrome index.html
-```
-
----
-
 ## 📋 Features
 
 ### Build with
