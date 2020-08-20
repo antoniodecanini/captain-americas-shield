@@ -17,28 +17,6 @@ This idea was withdrawn from an example of youtube channel, and I implemented th
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- To execute this project, you just need a browser of your choice.
-
-### Step 1 - 👯 Clone this repo to your local machine
-
-```
-$ git clone https://github.com/antoniodecanini/captain-americas-shield.git
-
-$ cd captain-americas-shield
-```
-
-### Step 2 - 🔗 Open page (with Google Chrome for example)
-
-```
-$ google-chrome index.html
-```
-
----
-
 ## 📋 Features
 
 ### Build with
